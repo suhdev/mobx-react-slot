@@ -4,7 +4,7 @@ An implementation of slots using for mobx-driven React apps.
 
 ## Usage
 
-```typescript
+```typescript 
 
 import * as React from 'react';
 import * as ReactDOM from 'react-dom';
