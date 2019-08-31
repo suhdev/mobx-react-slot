@@ -1,0 +1,31 @@
+{
+  "name": "@stickyants/mobx-react-slot",
+  "version": "1.0.0",
+  "description": "A mobx-based react-slot ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --env=jsdom src/.*.test.tsx? --watch"
+  },
+  "author": "Suhail Abood <suhail.abood@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@testing-library/dom": "^6.1.0",
+    "@testing-library/react": "^9.1.3",
+    "@types/jest": "^24.0.18",
+    "@types/react": "^16.9.2",
+    "@types/react-dom": "^16.9.0",
+    "jest": "^24.9.0",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "ts-jest": "^24.0.2",
+    "ts-loader": "^6.0.4",
+    "tslint": "^5.19.0",
+    "tslint-config-airbnb": "^5.11.1",
+    "typescript": "^3.6.2",
+    "webpack": "^4.39.3",
+    "mobx": "^5.13.0"
+  },
+  "peerDependencies": {
+    "mobx": "^5.13.0"
+  }
+}
