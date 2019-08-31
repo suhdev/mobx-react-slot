@@ -1,6 +1,6 @@
 {
   "name": "@stickyants/mobx-react-slot",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "A mobx-based react-slot ",
   "main": "lib/index.js",
   "scripts": {
